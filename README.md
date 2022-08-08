@@ -1,7 +1,8 @@
 <h1>Login and Signup using firebase authentication</h1>
 <p>I created this mini project to learn firebase authenticaion,</p>
-<p>I created this project using React framework.</p>
-<p>I used react-router to navigate between differnt files</p>
+<p>Created this project using React framework.</p>
+<p>Used react-router to navigate between different files</p>
+<p>Added google authentication</p>
 <br>
 <h2>Demo - </h2>
 
